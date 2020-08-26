@@ -1,5 +1,3 @@
-<p style="text-align:center;"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1597749306577/MOBbHXklC.png?w=200&h=200" alt="Amoenus"></p>
-
 ## Why I do what I do:
 I envision the world where technology and automation have given us freedom from tedious tasks and everyone can focus on what really matters most to them. 
 My personal goal is to remove obstacles so that together we can move the world forward.
