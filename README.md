@@ -15,7 +15,10 @@ Facilitate the knowledge and tools sharing among stakeholders by setting up wiki
 Create UI Mockups to better visualise the end products and gather valuable feedback early on.
 Attend and present in developer forums to gain and spread the knowledge amongst peers.
 
-<a rel="me" href="https://mastodon.online/@Amoenus" position="absolute" width="1" height="1" padding="0" margin="-1" overflow="hidden" clip="rect(0,0,0,0)" border="0"></a> 
+## Blog:
+I have a blog at https://amoenus.dev where I try to post as frequently as I can (crossposting to https://dev.to/amoenus). Everything I post is tech related and about things I find interesting to explain or to make others know about it.
+
+<p><a rel="me" href="https://mastodon.online/@Amoenus" position="absolute" width="1" height="1" padding="0" margin="-1" overflow="hidden" clip="rect(0,0,0,0)" border="0"></a></p>
 
 <!--
 **Amoenus/Amoenus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,3 +34,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ 
