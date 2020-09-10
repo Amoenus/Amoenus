@@ -1,3 +1,5 @@
+<p style="text-align:center;"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1597749306577/MOBbHXklC.png?w=200&h=200" alt="Amoenus"></p>
+
 ## Why I do what I do:
 I envision the world where technology and automation have given us freedom from tedious tasks and everyone can focus on what really matters most to them. 
 My personal goal is to remove obstacles so that together we can move the world forward.
@@ -19,7 +21,8 @@ Attend and present in developer forums to gain and spread the knowledge amongst 
 I have a blog at https://amoenus.dev where I try to post as frequently as I can (crossposting to https://dev.to/amoenus). Everything I post is tech related and about things I find interesting to explain or to make others know about it.
 
 <p><a rel="me" href="https://mastodon.online/@Amoenus" position="absolute" width="1" height="1" padding="0" margin="-1" overflow="hidden" clip="rect(0,0,0,0)" border="0"></a></p>
-![Amoenus Nuget profile](https://img.shields.io/static/v1?label=nuget&logo=Nuget&message=Amoenus&color=blue&link=https://www.nuget.org/profiles/Amoenus)
+
+[![Amoenus Nuget Profile](https://img.shields.io/static/v1?label=nuget&logo=Nuget&message=Amoenus&color=blue&link=https://www.nuget.org/profiles/Amoenus)](https://www.nuget.org/profiles/Amoenus)
 <!--
 **Amoenus/Amoenus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
