@@ -22,6 +22,7 @@ I have a blog at https://amoenus.dev where I try to post as frequently as I can 
 
 <p><a rel="me" href="https://mastodon.online/@Amoenus" position="absolute" width="1" height="1" padding="0" margin="-1" overflow="hidden" clip="rect(0,0,0,0)" border="0"></a></p>
 
+## Find me on the web:
 [![Amoenus Nuget Profile](https://img.shields.io/static/v1?label=nuget&logo=Nuget&message=Amoenus&color=blue&link=https://www.nuget.org/profiles/Amoenus)](https://www.nuget.org/profiles/Amoenus)
 <!--
 **Amoenus/Amoenus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
