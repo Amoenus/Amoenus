@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="bOJrcTNBZhiS_61iAOEjFcJ9T4dssSKUzvQPKR5fxXo" />
 <p style="text-align:center;"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1597749306577/MOBbHXklC.png?w=200&h=200" alt="Amoenus"></p>
 
 ## Why I do what I do:
