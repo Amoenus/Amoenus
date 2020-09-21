@@ -21,7 +21,9 @@ Attend and present in developer forums to gain and spread the knowledge amongst 
 ## Blog:
 I have a blog at https://amoenus.dev where I try to post as frequently as I can (crossposting to https://dev.to/amoenus). Everything I post is tech related and about things I find interesting to explain or to make others know about it.
 
-<p><a rel="me" href="https://mastodon.online/@Amoenus" position="absolute" width="1" height="1" padding="0" margin="-1" overflow="hidden" clip="rect(0,0,0,0)" border="0"></a></p>
+<link rel="me" href="https://mastodon.online/@Amoenus" />
+<link rel="me" href="https://amoenus.dev/"/>
+<link rel="me" href="https://twitter.com/motivated_it"/>
 
 ## Find me on the web:
 [![Amoenus Nuget Profile](https://img.shields.io/static/v1?label=nuget&logo=Nuget&message=Amoenus&color=blue&link=https://www.nuget.org/profiles/Amoenus)](https://www.nuget.org/profiles/Amoenus)
@@ -40,4 +42,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- 
